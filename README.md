@@ -13,7 +13,7 @@
 |  |  |커리큘럼 내용 |
 | ------ | -- |----------- |
 | 1 | ✅ | if문, if ... else문, 조건 연산자 예제|
-| 2 |  | if ... else 조건문, switch 조건문 예제 |
+| 2 | ✅ | if ... else 조건문, switch 조건문 예제 |
 | 3 |  | 중첩 for문, while문, do ... while문 예제 |
 | 4 |  | 실습 - do ... while 실질적 사용 예제, continue문 예제 |
 
